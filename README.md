@@ -1,5 +1,5 @@
 # Greenprint
-Greenprint Student Initiatives and Resources 
+SUTD Environment Club
 
 # What we do
 
@@ -31,9 +31,21 @@ We are currently engaged in a research project to build, maintain, and improve t
 
 *We have used several crops for our monthly steamboat session.*
 
-![alt text](https://github.com/Jaryllim98/Greenprint/blob/master/garden%20image%201.PNG"Garden")
+![Our Garden](https://github.com/Jaryllim98/Greenprint/blob/master/garden%20image%201.PNG)
+![](https://github.com/Jaryllim98/Greenprint/blob/master/photo_2019-11-20_23-04-45.jpg)
 
-**We seek interested people to join this project. Please email ```jaryl_lim@mymail.sutd.edu.sg``` if you are keen.**
+## Quarterly Newsletter
+
+# Upcoming Projects
+
+## SING Conference
+
+## Eco Challenge
+
+## Monthly Speaker's Series
+
+
+**We seek interested people to join us. Please email ```jaryl_lim@mymail.sutd.edu.sg``` if you are keen.**
 
 # Contacts
 

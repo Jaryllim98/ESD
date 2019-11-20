@@ -10,33 +10,30 @@ SUTD Greenprint is an environmental club. We strive to promote a sustainable lif
 
 Our efforts are targeted towards inculcating in others, a sustainable lifestyle by providing a platform to kickstart their green habits and make it easier for them to do so. Through our actions, we envision a change in people's mindset and hope that everyone can make green actions a part of their lives.
 
-## Pillar Dialogue 
+## Scrapyard 
 
-We aim to have this as a termly event.
 
-**Aim: To provide an avenue for the sharing of important updates and address questions and concerns**
 
-**Format:**
+**Aim: To create a space for students to recycle and reuse material from projects. It is located just outside the Fab Lab (nearer to the hostel side) **
 
-* Pre-survey of Key Topics
-* Pre-survey of burning questions/concerns
-* Pillar Dialogue (open invite of ESD population)
-* Post-email of minutes and key points to the population
+**Why you should visit the Scrapyard:**
 
-## Course Planner
+* Materials such as plywood, acrylic, even metal
+* Spare electronic parts and components
+* Saves you money and time to buy new parts
+* You save the earth
 
-We aim to ease the planning process for students and admin staff regarding to the ever more complicating course/track/minor requirements.
-<br><br>
+## Community Garden
 
-**Currently stable version of the planner is available [here](https://course-planner.opensutd.org/)**
+**Aim: To inculcate a culture of gardening and self-sufficiency. Also, we hope to create a space for all to bond and chill in the vicnity of a relaxing and picturesque space. **
 
-The current version is reactive<br>
+The current version is reactive
 In future development, we would also like to make a recommendation system for course-plan/module given student's strength or interest.
 
 ** This is a constant process of updating and maintaining the planner, and we seek interested people to join this open source project. Please email ```zhi_zhou@mymail.sutd.edu.sg``` if interested.
 
 # Contacts
 
-You may contact us via ```esd@rep.sutd.edu.sg```
+You may contact us via ```greenprint@club.sutd.edu.sg``` or check us out on [Instagram](https://www.instagram.com/sutdgreenprint/) 
 
 

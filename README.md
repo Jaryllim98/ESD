@@ -27,10 +27,13 @@ Our efforts are targeted towards inculcating in others, a sustainable lifestyle 
 
 **Aim: To inculcate a culture of gardening and self-sufficiency. Also, we hope to create a space for all to bond and chill in the vicnity of a relaxing and picturesque space.**
 
-The current version is reactive
-In future development, we would also like to make a recommendation system for course-plan/module given student's strength or interest.
+We are currently engaged in a research project to build, maintain, and improve the garden. We are in the process of learning how to grow a variety of different edible crops. 
 
-**This is a constant process of updating and maintaining the planner, and we seek interested people to join this open source project. Please email ```zhi_zhou@mymail.sutd.edu.sg``` if interested.**
+*We have used several crops for our monthly steamboat session.*
+
+![alt text](https://github.com/Jaryllim98/Greenprint/blob/master/garden%20image%201.PNG"Garden")
+
+**We seek interested people to join this project. Please email ```jaryl_lim@mymail.sutd.edu.sg``` if you are keen.**
 
 # Contacts
 

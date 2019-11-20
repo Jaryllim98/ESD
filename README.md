@@ -14,7 +14,7 @@ Our efforts are targeted towards inculcating in others, a sustainable lifestyle 
 
 
 
-**Aim: To create a space for students to recycle and reuse material from projects. It is located just outside the Fab Lab (nearer to the hostel side) **
+**Aim: To create a space for students to recycle and reuse material from projects. It is located just outside the Fab Lab (nearer to the hostel side)**
 
 **Why you should visit the Scrapyard:**
 
@@ -25,12 +25,12 @@ Our efforts are targeted towards inculcating in others, a sustainable lifestyle 
 
 ## Community Garden
 
-**Aim: To inculcate a culture of gardening and self-sufficiency. Also, we hope to create a space for all to bond and chill in the vicnity of a relaxing and picturesque space. **
+**Aim: To inculcate a culture of gardening and self-sufficiency. Also, we hope to create a space for all to bond and chill in the vicnity of a relaxing and picturesque space.**
 
 The current version is reactive
 In future development, we would also like to make a recommendation system for course-plan/module given student's strength or interest.
 
-** This is a constant process of updating and maintaining the planner, and we seek interested people to join this open source project. Please email ```zhi_zhou@mymail.sutd.edu.sg``` if interested.
+**This is a constant process of updating and maintaining the planner, and we seek interested people to join this open source project. Please email ```zhi_zhou@mymail.sutd.edu.sg``` if interested.**
 
 # Contacts
 

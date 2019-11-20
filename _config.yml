@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+analytics:
+  		provider: "google-universal"
+  	google:
+ 	tracking_id: "UA-152940890-1"

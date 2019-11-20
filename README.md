@@ -1,10 +1,14 @@
-# ESD
-ESD Student Initiatives and Resources 
+# Greenprint
+Greenprint Student Initiatives and Resources 
 
-# ESD Student Association Council
-The ESD representatives in Student Association Council works closely with the ESD faculty, staff, various fifth rows and external organisations to improve the learning experience of ESD students.<br>
+# What we do
 
-# Current Initiatives
+SUTD Greenprint is an environmental club. We strive to promote a sustainable lifestyle and generate awareness on the environmental issues the world faces today. We believe that everyone can do their part, big or small to curtail and reverse the damage done on the environment. Something as simple as cutting down on the usage of one-time use plastic, such as straws, can go a long way in alleviating the plight of our Planet Earth.<br>
+
+# Current Projects
+
+
+Our efforts are targeted towards inculcating in others, a sustainable lifestyle by providing a platform to kickstart their green habits and make it easier for them to do so. Through our actions, we envision a change in people's mindset and hope that everyone can make green actions a part of their lives.
 
 ## Pillar Dialogue 
 

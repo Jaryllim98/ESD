@@ -8,7 +8,7 @@ SUTD Greenprint is an environmental club. We strive to promote a sustainable lif
 # Who we are
 
 
-Jaryl Lim ![President](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/jaryl%top%photo.PNG)
+Jaryl Lim ![President](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/jaryl top photo.PNG)
 
 # Current Projects
 
@@ -23,8 +23,8 @@ Our efforts are targeted towards inculcating in others, a sustainable lifestyle 
 
 *Photos of Our Scrapyard*
 
-![Scrapyard 1](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo%1.jpg)
-![Scrapyard 2](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo%2.PNG)
+![Scrapyard 1](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo 1.jpg)
+![Scrapyard 2](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo 2.PNG)
 
 **Why you should visit the Scrapyard:**
 
@@ -43,7 +43,7 @@ We are currently engaged in a research project to build, maintain, and improve t
 
 ![Our Garden](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/garden%20image%201.PNG)
 ![Pic of Steamboat](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/photo_2019-11-20_23-04-45.jpg)
-![Pic of Steamboat](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/steamboat%1.PNG)
+![Pic of Steamboat](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/steamboat 1.PNG)
 
 ## Quarterly Newsletter
 

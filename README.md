@@ -7,9 +7,18 @@ SUTD Greenprint is an environmental club. We strive to promote a sustainable lif
 
 # Who we are
 
+Jaryl Lim
+Jaryl is a passionate advocate for the environment. He is currently running a food wastage startup and focusing on ESG investments at Protege Ventures. <br>
 
-Jaryl Lim ![President](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/jaryl top photo.PNG)
+![President](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/jaryl top photo.PNG) <br>
 
+Yun Qing
+![Ex-Pres](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/chewyunqing.jpg)
+
+Shaun Ha
+
+Brandon
+![Gardener](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/brandon.jpg)
 # Current Projects
 
 
@@ -23,8 +32,8 @@ Our efforts are targeted towards inculcating in others, a sustainable lifestyle 
 
 *Photos of Our Scrapyard*
 
-![Scrapyard 1](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo 1.jpg)
-![Scrapyard 2](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo 2.PNG)
+![Scrapyard 1](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo 2.PNG)
+![Scrapyard 2](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo 3.PNG)
 
 **Why you should visit the Scrapyard:**
 
@@ -42,10 +51,16 @@ We are currently engaged in a research project to build, maintain, and improve t
 *We have used several crops for our monthly steamboat session.*
 
 ![Our Garden](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/garden%20image%201.PNG)
+![](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/steamboat4.jpg)
+
+# How we bond
 ![Pic of Steamboat](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/photo_2019-11-20_23-04-45.jpg)
 ![Pic of Steamboat](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/steamboat 1.PNG)
 
+
 ## Quarterly Newsletter
+
+Check this out [here](https://sutdgreenprint.wixsite.com/mysite) 
 
 # Upcoming Projects
 

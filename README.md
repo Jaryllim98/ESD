@@ -31,8 +31,8 @@ We are currently engaged in a research project to build, maintain, and improve t
 
 *We have used several crops for our monthly steamboat session.*
 
-![Our Garden](https://github.com/Jaryllim98/Greenprint/blob/master/garden%20image%201.PNG)
-![](https://github.com/Jaryllim98/Greenprint/blob/master/photo_2019-11-20_23-04-45.jpg)
+![Our Garden](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/garden%20image%201.PNG)
+![](https://raw.githubusercontent.com/Jaryllim98/Greenprint/blob/master/photo_2019-11-20_23-04-45.jpg)
 
 ## Quarterly Newsletter
 

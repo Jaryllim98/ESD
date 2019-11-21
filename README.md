@@ -15,6 +15,9 @@ Our efforts are targeted towards inculcating in others, a sustainable lifestyle 
 
 
 **Aim: To create a space for students to recycle and reuse material from projects. It is located just outside the Fab Lab (nearer to the hostel side)**
+
+*Photos of Our Scrapyard*
+
 ![Scrapyard 1](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo 1.jpg)
 ![Scrapyard 2](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/scrapyard photo 2.PNG)
 

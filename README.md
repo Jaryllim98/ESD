@@ -10,7 +10,6 @@ SUTD Greenprint is an environmental club. We strive to promote a sustainable lif
 Jaryl Lim
 Jaryl is a passionate advocate for the environment. He is currently running a food wastage startup and focusing on ESG investments at Protege Ventures. <br>
 
-![President](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/jaryl top photo.PNG) <br>
 
 Yun Qing
 ![Ex-Pres](https://raw.githubusercontent.com/Jaryllim98/Greenprint/master/chewyunqing.jpg)
